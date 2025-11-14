@@ -11,5 +11,5 @@ This repo contains a simple Python script that generates a sine wave plot.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/JoelJoseph/Datascience-.git
+   git clone https://github.com/Jojojoseph-2403/Python_basics
    ```
